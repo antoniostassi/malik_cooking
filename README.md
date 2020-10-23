@@ -14,4 +14,4 @@ Features:
 Dependencies:
 
 - <a href="https://github.com/VORPCORE/VORP-Core">VORP-Core</a>
-- <a href="https://github.com/MalikTM/malik_items">Malik_Items</a>
+- <a href="https://github.com/MalikTM/malik_items">Malik Items</a>
