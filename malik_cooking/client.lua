@@ -50,7 +50,7 @@ end)
 Citizen.CreateThread(function()
     
     while true do 
-        Citizen.Wait(100)
+        Citizen.Wait(1)
         local Malik = PlayerPedId()
         local Coords = GetEntityCoords(Malik)
         --local campfire = GetClosestObjectOfType(Coords.x, Coords.y, Coords.z, 1.5, p_campfire02x, 0, 0, 0)
